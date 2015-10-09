@@ -1,2 +1,2 @@
-# LPA-
+# LPAstar
 Lifelong A*
